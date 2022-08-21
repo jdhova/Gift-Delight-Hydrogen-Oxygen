@@ -18,8 +18,8 @@ const PLACEHOLDERS = {
           },
           id: 'gid://shopify/MediaImage/29259478466616',
           image: {
-            url: 'https://cdn.shopify.com/s/files/1/0551/4566/0472/files/Hydrogen_Hero_Feature_1.jpg?v=1654902468',
-            width: 2500,
+            url: 'https://imgur.com/Wt6fONc.png',
+            width: 5000,
             height: 3155,
           },
         },
@@ -70,7 +70,7 @@ const PLACEHOLDERS = {
     {
       heading: {value: 'From the Slopes to the Chalet'},
       byline: null,
-      cta: {value: 'Shop Now →'},
+      cta: {value: ' →'},
       handle: 'backcountry',
       spread: {
         reference: {
